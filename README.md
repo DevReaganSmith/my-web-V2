@@ -1,2 +1,2 @@
 # my-web-V2
-A bit about th developer 
+A bit about the developer 
